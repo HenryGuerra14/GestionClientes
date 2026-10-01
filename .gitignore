@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Compilación
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+*.pdb
+GestionClientes/GestionClientes.xml
+
+# NuGet
+packages/
+*.nupkg
+
+# Publicación y otros
+[Pp]ublish/
+*.pubxml
+*.log
+Thumbs.db
+.DS_Store
